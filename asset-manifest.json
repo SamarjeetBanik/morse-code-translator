@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/morse-code-translator/static/css/main.24e51eeb.chunk.css",
+    "main.js": "/morse-code-translator/static/js/main.f5b2665e.chunk.js",
+    "main.js.map": "/morse-code-translator/static/js/main.f5b2665e.chunk.js.map",
+    "runtime-main.js": "/morse-code-translator/static/js/runtime-main.84489e38.js",
+    "runtime-main.js.map": "/morse-code-translator/static/js/runtime-main.84489e38.js.map",
+    "static/js/2.9b0666b4.chunk.js": "/morse-code-translator/static/js/2.9b0666b4.chunk.js",
+    "static/js/2.9b0666b4.chunk.js.map": "/morse-code-translator/static/js/2.9b0666b4.chunk.js.map",
+    "index.html": "/morse-code-translator/index.html",
+    "static/css/main.24e51eeb.chunk.css.map": "/morse-code-translator/static/css/main.24e51eeb.chunk.css.map",
+    "static/js/2.9b0666b4.chunk.js.LICENSE.txt": "/morse-code-translator/static/js/2.9b0666b4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.84489e38.js",
+    "static/js/2.9b0666b4.chunk.js",
+    "static/css/main.24e51eeb.chunk.css",
+    "static/js/main.f5b2665e.chunk.js"
+  ]
+}
