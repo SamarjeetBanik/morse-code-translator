@@ -32,3 +32,11 @@ textarea {
 .output p {
   font-family: monospace;
 }
+
+footer {
+  position: absolute;
+  bottom: 0;
+  padding-bottom: 15px;
+  padding-left: 250px;
+  font-size: 15pt;
+}
