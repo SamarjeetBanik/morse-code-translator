@@ -1,42 +1,70 @@
 .App {
-  display: inline-flex;
-  flex-flow: column;
-  width: 90%;
-  max-width: 800px;
-  text-align: left;
+	display: inline-flex;
+	flex-flow: column;
+	width: 90%;
+	max-width: 800px;
+	text-align: left;
 }
 
 body {
-  background: #1C1D1F;
-  color: #AFB0B2;
-  font-family: sans-serif;
-  text-align: center;
+	background: #1C1D1F;
+	color: #AFB0B2;
+	font-family: sans-serif;
+	text-align: center;
 }
 
 h1 {
-  text-align: center;
+  	text-align: center;
 }
 
 textarea {
-  font-size: 16px;
-  padding: 15px;
-  color: #AFB0B2;
-  background: #343536;
-  border: none;
-  height: 150px;
-  width: 100%;
-  box-sizing: border-box;
-  outline-color: grey;
+	font-size: 16px;
+	padding: 15px;
+	color: #AFB0B2;
+	background: #343536;
+	border: none;
+	height: 150px;
+	width: 100%;
+	box-sizing: border-box;
+	outline-color: grey;
 }
 
 .output p {
-  font-family: monospace;
+  	font-family: monospace;
 }
 
 footer {
-  position: absolute;
-  bottom: 0;
-  padding-bottom: 15px;
-  padding-left: 250px;
-  font-size: 15pt;
+	position: absolute;
+	bottom: 0;
+	padding-bottom: 15px;
+	padding-left: 250px;
+	font-size: 15pt;
+}
+@media screen and (max-width: 770px)
+{
+	footer {
+		padding-left: 200px;
+		font-size: 15pt;
+	}
+}
+@media screen and (max-width: 430px)
+{
+	footer {
+		padding-left: 75px;
+		font-size: 12pt;
+	}
+}
+@media screen and (max-width: 380px)
+{
+	footer {
+		padding-left: 50px;
+		font-size: 12pt;
+	}
+}
+@media screen and (max-width: 325px)
+{
+	footer {
+		padding-left: 25px;
+		font-size: 12pt;
+	}
 }
