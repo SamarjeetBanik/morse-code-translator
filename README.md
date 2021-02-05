@@ -6,9 +6,9 @@ A simple React-based "Morse Code Translator", that can translate yours words to 
 
 ## Snapshots of the web- app
 
-![](./public/web-app-look.png)
+**1.** ![](./public/web-app-look.png)
 
-![](./public/web-app-look2.png)
+**2.** ![](./public/web-app-look2.png)
 
 #### **If you liked the project, then, don't forget to give a 🌟 to this repo.**
 
